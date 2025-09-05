@@ -43,11 +43,15 @@ You can use these commands to assist you in the cycle of **exploring, planning, 
 | plan:new | Plan mode. Generates a plan for a feature based on a description
 | plan:refine | Refinement mode. Refines an existing plan based on user feedback.
 | plan:impl | Implementation mode. Implements a plan for a feature based on a description
+|  |  
 | deploy:project | Deploys the project to a target environment
+|  |  
 | deck:new | Creates a presentation deck based on a topic
 | diagram:new | Creates a diagram based on a description
-| migrate:new | Migrates code from one language or framework to another based on a description
 | img2doc:new | Generates documentation for an image file
+|  |  
+| migrate:new | Migrates code from one language or framework to another based on a description
+|  |  
 | pipeline:bitbucket | Generates a Bitbucket pipeline configuration file
 | pipeline:cloudbuild | Generates a Google Cloud Build configuration file
 
